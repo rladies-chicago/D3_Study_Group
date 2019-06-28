@@ -25,3 +25,14 @@ http://www.javascriptteacher.com/tmp-057-jsg-II/javascriptgrammar-II.pdf
 https://www.freecodecamp.org/
 
 **this** concept in javascript - https://www.youtube.com/watch?v=zE9iro4r918
+
+[Intro to D3 by Ola](https://docs.google.com/presentation/d/1PSXhFpo1YTPMHMfnYtSYfjOAy6FFWMa0wUEDH1iKQYk/edit?usp=sharing)
+
+###Core Javascript Concepts to learn    
+[Functions](https://www.w3schools.com/js/js_functions.asp)
+[Arrow Functions](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+[Arrays](https://www.w3schools.com/js/js_arrays.asp)
+[Array Function Cheat Sheet](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+[Array Top 10 Functions You Should Know](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3)
+[Objects](https://www.w3schools.com/js/js_objects.asp)
+[Javascript Callbacks](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
