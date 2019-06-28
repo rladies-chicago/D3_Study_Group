@@ -12,14 +12,16 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 @observablehq is my go-to tool for quickly sketching ideas w/o a full dev setup. I was able to share sketches (privately!) and iterate as the story and designed evolved. Both graphics started as forks of a notebook I use for almost all my Observable work https://observablehq.com/@aboutaaron/setup-page
 
+## Online Courses
+
 https://scrimba.com/g/gd3js
 
-Coursera Course on D3.js - https://www.coursera.org/learn/information-visualization-programming-d3js/
-https://www.d3indepth.com/introduction/
+Coursera Course on D3.js(https://www.coursera.org/learn/information-visualization-programming-d3js/
+https://www.d3indepth.com/introduction/)
 
-https://medium.com/@yonester/on-d3-and-arrow-functions-b6559c1cebb8
 
-##Javascript Resources
+## Javascript Resources
+
 http://www.javascriptteacher.com/tmp-057-jsg-II/javascriptgrammar-II.pdf
 
 https://www.freecodecamp.org/
@@ -28,11 +30,19 @@ https://www.freecodecamp.org/
 
 [Intro to D3 by Ola](https://docs.google.com/presentation/d/1PSXhFpo1YTPMHMfnYtSYfjOAy6FFWMa0wUEDH1iKQYk/edit?usp=sharing)
 
-###Core Javascript Concepts to learn    
+## Core Javascript Concepts to learn    
 [Functions](https://www.w3schools.com/js/js_functions.asp)
-[Arrow Functions](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+
+[Arrow Functions](https://codeburst.io/)
+
+[More on Arrow Functions](javascript-arrow-functions-for-beginners-926947fc0cdc)
+
 [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+
 [Array Function Cheat Sheet](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+
 [Array Top 10 Functions You Should Know](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3)
+
 [Objects](https://www.w3schools.com/js/js_objects.asp)
+
 [Javascript Callbacks](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
