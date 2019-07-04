@@ -1,4 +1,4 @@
-# D3_Study_Group
+# D3 Study Group
 
 ## D3 Resources 
 
@@ -12,12 +12,15 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 @observablehq is my go-to tool for quickly sketching ideas w/o a full dev setup. I was able to share sketches (privately!) and iterate as the story and designed evolved. Both graphics started as forks of a notebook I use for almost all my Observable work https://observablehq.com/@aboutaaron/setup-page
 
+
+[D3 in Depth](https://www.d3indepth.com/introduction/)
+
 ## Online Courses
 
-https://scrimba.com/g/gd3js
+[Scrimba D3 Course](https://scrimba.com/g/gd3js)
 
-Coursera Course on D3.js(https://www.coursera.org/learn/information-visualization-programming-d3js/
-https://www.d3indepth.com/introduction/)
+[Coursera Course on D3.js](https://www.coursera.org/learn/information-visualization-programming-d3js/)
+
 
 
 ## Javascript Resources
