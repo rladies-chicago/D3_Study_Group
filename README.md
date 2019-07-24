@@ -1,4 +1,4 @@
-# D3_Study_Group
+# D3 Study Group
 
 ## D3 Resources 
 
@@ -12,25 +12,55 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 @observablehq is my go-to tool for quickly sketching ideas w/o a full dev setup. I was able to share sketches (privately!) and iterate as the story and designed evolved. Both graphics started as forks of a notebook I use for almost all my Observable work https://observablehq.com/@aboutaaron/setup-page
 
-## Online Courses
 
-https://scrimba.com/g/gd3js
+[D3 in Depth](https://www.d3indepth.com/introduction/)
 
-Coursera Course on D3.js(https://www.coursera.org/learn/information-visualization-programming-d3js/
-https://www.d3indepth.com/introduction/)
+## Open Source Online Courses
 
+[Scrimba D3 Course](https://scrimba.com/g/gd3js)
+
+[Coursera Course on D3.js](https://www.coursera.org/learn/information-visualization-programming-d3js/)
+
+## Paid Online Courses
+[D3.js Data Visualization Fundamentals by Lars Versphol](https://www.pluralsight.com/courses/d3js-data-visualization-fundamentals)
+
+## D3 Concepts
+
+- https://github.com/d3/d3-format
+
+### Margin
+
+- https://bl.ocks.org/mbostock/3019563
+- https://www.d3indepth.com/scales/
+
+
+### Scales
+
+- https://www.d3indepth.com/scales/
+
+### Update Pattern
+
+- https://medium.com/@c_behrens/enter-update-exit-6cafc6014c36
 
 ## Javascript Resources
 
-http://www.javascriptteacher.com/tmp-057-jsg-II/javascriptgrammar-II.pdf
+[Javascript Grammar](http://www.javascriptteacher.com/tmp-057-jsg-II/javascriptgrammar-II.pdf)
 
-https://www.freecodecamp.org/
+[Free Code Camp](https://www.freecodecamp.org/)
+
+[Javascript for Data Science](http://js4ds.org/)
+
+[Javascript for Cats - Introduction for New Programmers](http://jsforcats.com/)
+
+[Eloquent Javascript](https://eloquentjavascript.net/)
+
 
 **this** concept in javascript - https://www.youtube.com/watch?v=zE9iro4r918
 
 [Intro to D3 by Ola](https://docs.google.com/presentation/d/1PSXhFpo1YTPMHMfnYtSYfjOAy6FFWMa0wUEDH1iKQYk/edit?usp=sharing)
 
 ## Core Javascript Concepts to learn    
+
 [Functions](https://www.w3schools.com/js/js_functions.asp)
 
 [Arrow Functions](https://codeburst.io/)

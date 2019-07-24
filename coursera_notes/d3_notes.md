@@ -1,0 +1,1 @@
+This folder contains my notes on coursera's D3 Visualization Course.
