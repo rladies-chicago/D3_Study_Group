@@ -12,8 +12,11 @@ Aaron Colby Williams @aboutaaron  - https://thomaswilburn.github.io/viz-book/
 
 @observablehq is my go-to tool for quickly sketching ideas w/o a full dev setup. I was able to share sketches (privately!) and iterate as the story and designed evolved. Both graphics started as forks of a notebook I use for almost all my Observable work https://observablehq.com/@aboutaaron/setup-page
 
+[Nadieh Bremer's list of data visualization resources](https://www.visualcinnamon.com/resources/learning-data-visualization), (which has a list of d3.js tutorials in addition to links to a bunch of other resources)
 
 [D3 in Depth](https://www.d3indepth.com/introduction/)
+
+Tutorial on making a "first bar chart" for the Chicago Data Viz Community meetup by Mollie Pettit: [Github repo here](https://github.com/molliemarie/D3Workshops/tree/master/2019-3-6_D3Bar)
 
 ## Open Source Online Courses
 
