@@ -57,8 +57,9 @@ Tutorial on making a "first bar chart" for the Chicago Data Viz Community meetup
 
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
+[Understanding **This**](https://www.youtube.com/watch?v=zE9iro4r918)
 
-**this** concept in javascript - https://www.youtube.com/watch?v=zE9iro4r918
+[Web Basics and D3 Data Viz tutorials by Columbia University Data Journalism professor](https://www.youtube.com/channel/UCg3t2I9DIsU1HxNOHoPcLlw)
 
 [Intro to D3 by Ola](https://docs.google.com/presentation/d/1PSXhFpo1YTPMHMfnYtSYfjOAy6FFWMa0wUEDH1iKQYk/edit?usp=sharing)
 
